@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+#username {
+	margin: 0 0 5px 50px;
+	
+}
+
+#password {
+	margin: 0 0 5px 53px;
+}
+
+#rep_password {
+	margin: 0 0 5px 5px;
+}
+
+.error {
+	color: red;
+	
+}
+
+.error input {
+	border-color: red;
+}

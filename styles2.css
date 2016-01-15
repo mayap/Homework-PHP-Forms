@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+
+#firstNum {
+	margin: 0 0 5px 30px;
+}
+
+#secondNum {
+	margin: 0 0 5px 12px;
+}
+
+#operation {
+	margin: 10px 0 0 100px;
+}
+
+#submit {
+	width: 70px;
+	margin: 10px 0 0 135px;
+}
+
+.error {
+	color: red;
+	
+}
+
+.error input {
+	border-color: red;
+}
